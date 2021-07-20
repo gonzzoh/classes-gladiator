@@ -1,7 +1,7 @@
 class Gladiator {
     constructor(name, weapon){
-        this.name = 'Maximus';
-        this.weapon = 'Trident';
+        this.name = name;
+        this.weapon = weapon;
     }
 }
 
