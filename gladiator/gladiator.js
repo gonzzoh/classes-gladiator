@@ -1,7 +1,9 @@
-/**
- * 
- * Write your Gladiator class in this file!!
- * 
- */
+class Gladiator {
+    constructor(name, weapon){
+        this.name = 'Maximus';
+        this.weapon = 'Trident';
+    }
+}
 
- 
+console.log(Gladiator);
+
